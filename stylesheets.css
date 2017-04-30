@@ -2,3 +2,78 @@
   width: 100px;
   margin-left: 20px;
 }
+
+.first-container {
+  height: 500px;
+  margin-top: 200px;
+}
+
+.left-container {
+  width: 50%;
+  float: left;
+}
+
+.left-container img {
+  display: block;
+  margin: 0 auto;
+  padding-left: 20px;
+}
+
+.right-container {
+  width: 50%;
+  float: right;
+  margin-top: 60px;
+  padding-right: 80px;
+}
+
+.left-container2 {
+  width: 50%;
+  float: left;
+  padding-left: 80px;
+  padding-right: 20px;
+  margin-top: 60px;
+}
+
+.right-container2 {
+  width: 50%;
+  float: right;
+}
+
+.map-container {
+  margin-top: 150px;
+}
+
+.map-container img {
+  display: block;
+  margin: 0 auto;
+}
+
+.map-container p {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.map-container h3 {
+  text-align: center;
+}
+
+.map-left {
+  width: 50%;
+  float: left;
+}
+
+.map-right {
+  width: 50%;
+  float: right;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  margin-top: 60px;
+  height: 40px;
+}
+
+footer p {
+  padding-top: 30px;
+}
